@@ -1,0 +1,9 @@
+c:\users\бенедюк\documents\visual studio 2012\Projects\test project\test project\bin\Debug\test project.exe.config
+c:\users\бенедюк\documents\visual studio 2012\Projects\test project\test project\bin\Debug\test project.exe
+c:\users\бенедюк\documents\visual studio 2012\Projects\test project\test project\bin\Debug\test project.pdb
+c:\users\бенедюк\documents\visual studio 2012\Projects\test project\test project\obj\Debug\test project.csprojResolveAssemblyReference.cache
+c:\users\бенедюк\documents\visual studio 2012\Projects\test project\test project\obj\Debug\test_project.Form1.resources
+c:\users\бенедюк\documents\visual studio 2012\Projects\test project\test project\obj\Debug\test_project.Properties.Resources.resources
+c:\users\бенедюк\documents\visual studio 2012\Projects\test project\test project\obj\Debug\test project.csproj.GenerateResource.Cache
+c:\users\бенедюк\documents\visual studio 2012\Projects\test project\test project\obj\Debug\test project.exe
+c:\users\бенедюк\documents\visual studio 2012\Projects\test project\test project\obj\Debug\test project.pdb
